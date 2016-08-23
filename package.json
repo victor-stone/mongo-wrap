@@ -1,0 +1,25 @@
+{
+  "name": "mongo-wrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-stone/mongo-wrap.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "victor stone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victor-stone/mongo-wrap/issues"
+  },
+  "homepage": "https://github.com/victor-stone/mongo-wrap#readme",
+  "dependencies": {
+    "mongodb": "^2.2.8"
+  }
+}
